@@ -88,7 +88,7 @@ Local-first desktop app that identifies duplicate/clutter files, stages them saf
 
 ## 📬 Contact
 - Email: **calebakomaye@outlook.com**  
-- LinkedIn: {https://www.linkedin.com/in/your-handle}  
+- LinkedIn: **https://www.linkedin.com/in/caleb-akomaye-71a03329a/**
 - GitHub: **@calebandcode**
 
 <sub>Profile kept concise. Individual repos contain setup, diagrams, and screenshots.</sub>
