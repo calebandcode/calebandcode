@@ -11,9 +11,6 @@
     <a href="mailto:calebakomaye@outlook.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-calebakomaye%40outlook.com-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/caleb-akomaye-71a03329a/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
     <a href="https://github.com/calebandcode">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@calebandcode-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
