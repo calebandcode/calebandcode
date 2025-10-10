@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Caleb Akomaye</h1>
   <p>
-    Software Engineer · Backend & Desktop<br/>
+    Software Engineer · Backend & Desktop · DevOps<br/>
     Node/TypeScript · Postgres · Docker · React/Next.js · Tauri/Rust · Python · Go
   </p>
 
